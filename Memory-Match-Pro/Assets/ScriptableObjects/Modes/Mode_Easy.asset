@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb269f93400075c4ca49b4c6495c2987, type: 3}
+  m_Name: Mode_Easy
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryMatchPro.GameModeConfig
+  modeType: 0
+  modeName: Easy
+  description: Relaxed memory matching with generous timers.
+  modeColor: {r: 0.2, g: 0.75, b: 0.4, a: 1}
+  allLevelsUnlocked: 1
+  alwaysUnlocked: 1
+  levels:
+  - {fileID: 11400000, guid: 163d9187fe22df2489ce6fb3a9f6bb20, type: 2}
+  - {fileID: 11400000, guid: a0314f31ad7388d4b9189aaad0f0c5fa, type: 2}
+  - {fileID: 11400000, guid: 8a680f58dbcaacf48a9ab5cd49128b83, type: 2}
+  - {fileID: 11400000, guid: 0c0b455a453c4ea4196d2c29100dc7a8, type: 2}
+  - {fileID: 11400000, guid: d244062b700a76a4197f00b8f5957a8a, type: 2}

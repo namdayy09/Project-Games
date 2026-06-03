@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb269f93400075c4ca49b4c6495c2987, type: 3}
+  m_Name: Mode_Hard
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryMatchPro.GameModeConfig
+  modeType: 2
+  modeName: Hard
+  description: Tough layouts and tighter time limits.
+  modeColor: {r: 0.85, g: 0.45, b: 0.15, a: 1}
+  allLevelsUnlocked: 0
+  alwaysUnlocked: 0
+  levels:
+  - {fileID: 11400000, guid: c05af20aa9796ce46b7de1ed566b61f6, type: 2}
+  - {fileID: 11400000, guid: 5f423a4606438184384ad6183a9224df, type: 2}
+  - {fileID: 11400000, guid: 0165c180df08b5041b43b344ad90aa72, type: 2}
+  - {fileID: 11400000, guid: 3b13406744036c44a8962eec5cbf03d4, type: 2}
+  - {fileID: 11400000, guid: 153a2830c1e7ba34c86bd62f455cee66, type: 2}
+  - {fileID: 11400000, guid: 224a31812063e534d9679bb9826e1cca, type: 2}
+  - {fileID: 11400000, guid: 5c43ebf46bc6c704ba8b97c1d8c68a0b, type: 2}
+  - {fileID: 11400000, guid: ad41273622c0bba4287bd6729d66dc70, type: 2}
+  - {fileID: 11400000, guid: e4a091351922acc419a5d692b667ccbe, type: 2}
+  - {fileID: 11400000, guid: b4b5613c3477df64e831cf612afe2147, type: 2}

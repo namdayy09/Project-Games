@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb269f93400075c4ca49b4c6495c2987, type: 3}
+  m_Name: Mode_Normal
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryMatchPro.GameModeConfig
+  modeType: 1
+  modeName: Normal
+  description: Standard challenge. Complete levels sequentially.
+  modeColor: {r: 0.25, g: 0.55, b: 0.95, a: 1}
+  allLevelsUnlocked: 0
+  alwaysUnlocked: 1
+  levels:
+  - {fileID: 11400000, guid: 5acf674a94e65d3468e8c58fb30b2938, type: 2}
+  - {fileID: 11400000, guid: c6d8f0a64e6815341a2d4c90f92ceb82, type: 2}
+  - {fileID: 11400000, guid: de8a811a2c345924dbe75d2b7d6c5f7a, type: 2}
+  - {fileID: 11400000, guid: 277fb34f3bceb5b43b0502f0ecc133a3, type: 2}
+  - {fileID: 11400000, guid: d6d3f9115553c7746974d1bc39b9af09, type: 2}
+  - {fileID: 11400000, guid: 80831c5bacc2196438742c74c37b486f, type: 2}
+  - {fileID: 11400000, guid: a04cc89b3e7fd5644ba00844cf167be2, type: 2}
+  - {fileID: 11400000, guid: 82f2e5ef3a479a740938b9317f926abd, type: 2}
+  - {fileID: 11400000, guid: c8ec5bd66e1c9e04ebf3b7fcdd1f3349, type: 2}
+  - {fileID: 11400000, guid: 9a38af1d331134b498a37b4b9fbad14c, type: 2}

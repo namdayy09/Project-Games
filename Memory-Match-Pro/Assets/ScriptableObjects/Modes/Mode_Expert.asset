@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb269f93400075c4ca49b4c6495c2987, type: 3}
+  m_Name: Mode_Expert
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryMatchPro.GameModeConfig
+  modeType: 3
+  modeName: Expert
+  description: Strict timers and very limited hints.
+  modeColor: {r: 0.7, g: 0.15, b: 0.8, a: 1}
+  allLevelsUnlocked: 0
+  alwaysUnlocked: 0
+  levels:
+  - {fileID: 11400000, guid: 54e0ab6a81f3f0b479476ffdbf32f510, type: 2}
+  - {fileID: 11400000, guid: 2c5b238aebd448a419c9f4e2a838ba6b, type: 2}
+  - {fileID: 11400000, guid: b1cff6cba6268994d8ad63d5b9039f1f, type: 2}
+  - {fileID: 11400000, guid: 37715dfaf2df3a844a55ea55cb1206c3, type: 2}
+  - {fileID: 11400000, guid: 58b626023338ca3439ed96793f4013d2, type: 2}
+  - {fileID: 11400000, guid: a555f10de8b1839459d881846ad320d6, type: 2}
+  - {fileID: 11400000, guid: eaf52614103be10408cb87b63d81d339, type: 2}
+  - {fileID: 11400000, guid: f1f55bc962a8a5245b1eef2e32425e20, type: 2}
+  - {fileID: 11400000, guid: b2cc3891e75c85f44890202564ef59e9, type: 2}
+  - {fileID: 11400000, guid: 2646aca7debfd514b970509d849c18e2, type: 2}

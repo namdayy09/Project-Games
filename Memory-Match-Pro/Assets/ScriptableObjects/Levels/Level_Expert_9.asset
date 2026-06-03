@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc91a9b5a7fc1d40b973d040db1360c, type: 3}
+  m_Name: Level_Expert_9
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryMatchPro.LevelData
+  levelId: 9
+  levelName: Level 9
+  targetMode: 3
+  rows: 8
+  columns: 8
+  timeLimit: 172
+  baseScore: 1500
+  matchScore: 300
+  comboBonus: 70
+  wrongPenalty: 80
+  hintCooldown: 32
+  maxHints: 0
+  backgroundSprite: {fileID: 0}
+  cardSprites: []
